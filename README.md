@@ -10,8 +10,8 @@
 6. [Summary](#Summary)
 7. [Contributors](#Contributors)
 
-This table of contents outlines the sections and subsections of the README for easy navigation.
 ## Project Overview
+
 This repository contains the deliverables and documentation for a data analysis project conducted by Team-8145W23-S1-PD. The project involved analyzing wait times and order frequencies to optimize processes within a checkout system. Comprehensive data analysis project exploring correlations, frequency distributions, and cumulative trends. Excel-based workflows with documentation. Team collaboration. Deliverables include detailed analysis and data models.
 
 ## Deliverables
