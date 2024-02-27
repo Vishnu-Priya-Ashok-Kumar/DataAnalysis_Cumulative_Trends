@@ -2,11 +2,13 @@
 
 # Table of Contents
 
-1. [Project Overview](#project-overview)
-2. [Deliverables](#deliverables)
-3. [Usage](#usage)
-4. [Summary](#summary)
-5. [Contributors](#contributors)
+1. [Project Overview](#Project-Overview)
+2. [Deliverables](#Deliverables)
+3. [Data Model](#Data_Model)
+4. [Worksheets](#Worksheets)
+5. [Usage](#Usage)
+6. [Summary](#Summary)
+7. [Contributors](#Contributors)
 
 This table of contents outlines the sections and subsections of the README for easy navigation.
 ## Project Overview
@@ -24,7 +26,7 @@ This repository contains the deliverables and documentation for a data analysis 
    9. **Correlations**: Excel sheets (CR-AA, CR-SK, CR-VP) with correlation analysis results.
    10. **Cumulative-**: Excel sheets (Cmltv DM, C Analysis) with cumulative analysis.
 
-### Data Model
+## Data Model
 
 **Datamodel PD1**:
 - Extracted checkout table from MS Access.
@@ -36,7 +38,7 @@ This repository contains the deliverables and documentation for a data analysis 
   - WaitTimePay: Calculated wait time in minutes between ActualStartPay and TimeStartPay.
 - TotalBought: Calculated as the sum of RegularBought, EconomyBought, and DeluxeBought.
 
-### Worksheets
+## Worksheets
 
 1. **Ranges**:
    - Created 14 ranges based on specified criteria.
@@ -85,7 +87,7 @@ This repository contains the deliverables and documentation for a data analysis 
    - Clean and adjust pivot table data.
    - Generate scattergrams and perform linear regression analysis to understand trends in total orders over time.
 
-### Summary
+## Summary
 
 This project involves extensive data analysis including correlation, range grouping, and linear regression. The data model (Datamodel PD1) serves as the foundation for various analyses. Worksheets such as Ranges, Frequencies, and Correlations provide detailed insights into wait times and their correlations. The project culminates in cumulative analysis to understand trends over time. Each analysis is documented thoroughly to ensure reproducibility and clarity.
 
