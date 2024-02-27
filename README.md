@@ -13,36 +13,16 @@ This table of contents outlines the sections and subsections of the README for e
 This repository contains the deliverables and documentation for a data analysis project conducted by Team-8145W23-S1-PD. The project involved analyzing wait times and order frequencies to optimize processes within a checkout system. Comprehensive data analysis project exploring correlations, frequency distributions, and cumulative trends. Excel-based workflows with documentation. Team collaboration. Deliverables include detailed analysis and data models.
 
 ## Deliverables
-
-1. **Practical D - ReadMeFirst sheet**
-   - Initial documentation outlining project goals and deliverables.
-
-2. **Workflows Workbook**
-   - Workflow documentation for various analyses conducted.
-
-3. **Correlation Analysis Workflow**
-   - Workflow documentation detailing steps for correlation analysis.
-
-4. **Range Grouping Analysis Workflow**
-   - Workflow documentation outlining steps for range grouping analysis.
-
-5. **Linear Regression Analysis Workflow**
-   - Workflow documentation detailing steps for linear regression analysis.
-
-6. **Data Model PD1**
-   - Excel sheet containing the data model used for analysis, including formulas and calculations for wait times and total orders.
-
-7. **Ranges**
-   - Excel sheet holding the ranges used for different types of wait times.
-
-8. **Frequencies**
-   - Excel sheet containing frequency (count) analysis for wait times.
-
-9. **Correlations**
-   - Excel sheets (CR-AA, CR-SK, CR-VP) containing correlation analysis results conducted by each team member.
-
-10. **Cumulative-**
-    - Excel sheets (Cmltv DM, C Analysis) containing cumulative analysis of total orders.
+   1. **Practical D - ReadMeFirst sheet**: Initial project documentation.
+   2. **Workflows Workbook**: Documentation of analysis workflows.
+   3. **Correlation Analysis Workflow**: Steps for correlation analysis.
+   4. **Range Grouping Analysis Workflow**: Steps for range grouping analysis.
+   5. **Linear Regression Analysis Workflow**: Steps for linear regression analysis.
+	6. **Data Model PD1**: Excel sheet with data model and calculations.
+	7. **Ranges**: Excel sheet with wait time ranges.
+	8. **Frequencies**: Excel sheet with wait time frequency analysis.
+	9. **Correlations**: Excel sheets (CR-AA, CR-SK, CR-VP) with correlation analysis results.
+	10. **Cumulative-**: Excel sheets (Cmltv DM, C Analysis) with cumulative analysis.
 
 ### Data Model
 
