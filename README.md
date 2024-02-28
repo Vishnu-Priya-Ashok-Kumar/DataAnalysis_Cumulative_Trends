@@ -55,12 +55,16 @@ This repository contains the deliverables and documentation for a data analysis 
    - Contains correlation analysis results for different wait time types.
    - Subsheets:
      - CR- AA, CR- SK, CR- VP: Individual correlation analyses by group members.
+![image](https://github.com/priya-ak/DataAnalysis_Cumulative_Trends/assets/67804361/f717eb3f-3ed7-491e-b700-c36b8c46000c)
 
 4. **Cumulative-**:
    - Contains cumulative analysis data and models.
    - Subsheets:
      - Cmltv DM: Data model for cumulative analysis.
+![image](https://github.com/priya-ak/DataAnalysis_Cumulative_Trends/assets/67804361/b3180c51-a4d3-4ace-ac89-4c35b0b41d8c)
+
      - C Analysis: Analysis of cumulative data.
+![image](https://github.com/priya-ak/DataAnalysis_Cumulative_Trends/assets/67804361/1daf8c80-4c1a-4ffc-b429-88fc60ed1e02)
 
 
 ## Usage
